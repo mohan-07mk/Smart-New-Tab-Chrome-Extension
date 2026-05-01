@@ -90,6 +90,7 @@ smart-new-tab-extension/
         └── icon128.png        # Extension icon (128×128)
 
 
+
 ---
 
 ## 🎯 Purpose of the Project
